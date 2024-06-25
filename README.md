@@ -1,6 +1,6 @@
-# s21_containers
+# containers
 
-Implementation of the s21_containers.h. library.
+Implementation of the containers.h. library.
 
 ### Introduction
 
