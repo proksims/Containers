@@ -1,6 +1,6 @@
-# s21_containers
+# containers
 
-Реализация библиотеки s21_containers.h.
+Реализация библиотеки containers.h.
 
 ### Introduction
 
